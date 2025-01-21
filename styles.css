@@ -15,7 +15,7 @@ body {
     /*Altura*/
     width: 100vw;
     /*Largura */
-    background-image: url(https://source.unsplash.com/1600x900/?landscape);
+    background: url(https://picsum.photos/1600/900);
 }
 
 
